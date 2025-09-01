@@ -8,3 +8,21 @@ __pycache__/
 .ipynb_checkpoints/
 *.log
 
+# VS Code & extensions
+.vscode/
+.vscode-server/
+
+# JetBrains IDEs (PyCharm, IntelliJ, etc.)
+.idea/
+
+# Lightning Studio config
+.lightning_studio/
+
+# Windsurf editor
+.windsurf-server/
+
+# Ollama cache/models
+.ollama/
+
+# Windsurf editor
+.cursor-server/
