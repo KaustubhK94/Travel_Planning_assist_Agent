@@ -61,6 +61,11 @@ pip install -r requirements.txt
 
 ```
 
+## RUN CLI Travel Assistant
+```bash
+python travel_planner.py
+```
+
 ## StreamLit
 ```bash
 streamlit run --server.port 8501 app.py
