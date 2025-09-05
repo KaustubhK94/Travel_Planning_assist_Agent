@@ -10,6 +10,8 @@ TripMate can:
 ✅ Suggest **Tourist Attractions** (Google Maps via SerpAPI)  
 ✅ Perform **Currency Conversion** (CurrencyAPI)  
 
+
+
 ## 📸 Demo Screenshots  
 
 <table>
@@ -34,6 +36,11 @@ TripMate can:
     </td>
   </tr>
 </table>
+
+
+### Streamlit Web App  
+![Streamlit UI](media/Streamlit_demo_3.png)
+
 
 ## ✨ Features  
 

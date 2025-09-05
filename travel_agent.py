@@ -629,7 +629,7 @@ def build_agent(verbose: bool = True):
     - Never return raw JSON to user.
     - When the user asks for clarification, advice, or preferences based on **previous tool results**, DO NOT call tools again.
     - Instead, recall the last tool or tools outputs from memory and give a clear recommendation.
-    - Never drop earlier results (e.g., flights, hotels, weather).
+    - Never drop earlier results (e.g., flights, hotels, weather). 
     - Always end with:
 
     Final Answer: 
@@ -642,6 +642,7 @@ def build_agent(verbose: bool = True):
     5. Tool calls must be structured JSON. 
     6. Never return raw JSON to user.
     7. Never leave responses blank.
+
     """
 
 
