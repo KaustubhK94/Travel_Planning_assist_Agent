@@ -10,6 +10,31 @@ TripMate can:
 ✅ Suggest **Tourist Attractions** (Google Maps via SerpAPI)  
 ✅ Perform **Currency Conversion** (CurrencyAPI)  
 
+## 📸 Demo Screenshots  
+
+<table>
+  <tr>
+    <td>
+      <img src="media/CLI_DEMO_1.png" width="400"/>
+      <p><strong>Description 1:</strong> CLI Demonstration </p>
+    </td>
+    <td>
+      <img src="media/CLI_DEMO_2.png" width="400"/>
+      <p><strong>Interface 1:</strong> CLI Demonstration </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="media/Stremlit_demo_1.png" width="400"/>
+      <p><strong>Description 2:</strong> Streamlit Web App </p>
+    </td>
+    <td>
+      <img src="media/Streamlit_demo_2.png" width="400"/>
+      <p><strong>Interface 2:</strong> Streamlit UI </p>
+    </td>
+  </tr>
+</table>
+
 ## ✨ Features  
 
 - **Flight Search** ✈️ – Finds flights using Amadeus API.  
@@ -61,12 +86,12 @@ pip install -r requirements.txt
 
 ```
 
-## RUN CLI Travel Assistant
+## Run CLI Travel Assistant
 ```bash
 python travel_planner.py
 ```
 
-## StreamLit
+## 🚀 Run Streamlit App
 ```bash
 streamlit run --server.port 8501 app.py
 ```
