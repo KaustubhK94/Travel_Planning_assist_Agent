@@ -16,21 +16,21 @@ TripMate can:
   <tr>
     <td>
       <img src="media/CLI_DEMO_1.png" width="400"/>
-      <p><strong>Description 1:</strong> CLI Demonstration </p>
+      <p><strong>CL Interface 1:</strong> CLI Demonstration </p>
     </td>
     <td>
       <img src="media/CLI_DEMO_2.png" width="400"/>
-      <p><strong>Interface 1:</strong> CLI Demonstration </p>
+      <p><strong>CL Interface 2:</strong> CLI Demonstration </p>
     </td>
   </tr>
   <tr>
     <td>
       <img src="media/Stremlit_demo_1.png" width="400"/>
-      <p><strong>Description 2:</strong> Streamlit Web App </p>
+      <p><strong>Steamlit Interface 1:</strong> Streamlit Web App </p>
     </td>
     <td>
       <img src="media/Streamlit_demo_2.png" width="400"/>
-      <p><strong>Interface 2:</strong> Streamlit UI </p>
+      <p><strong>Steamlit Interface 2:</strong> Streamlit UI </p>
     </td>
   </tr>
 </table>
