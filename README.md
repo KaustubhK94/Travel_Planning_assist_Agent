@@ -61,8 +61,10 @@ pip install -r requirements.txt
 
 ```
 
-
-
+## StreamLit
+```bash
+streamlit run --server.port 8501 app.py
+```
 
 
 
